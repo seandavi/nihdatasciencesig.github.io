@@ -14,7 +14,7 @@ Location: Building 50, room 1328/1334 (rear)
 
 **Haloarchaeal genomics and the origin of the prokaryotic ‘species’**<br>
 Presenter: Shil DasSarma, Professor University of Maryland, Baltimore<br>
-Thursday, February 8th, 11 am<br>
+Thursday, February 8th, 3 pm<br>
 Location: 38A B2 library (second door on the right from main elevators)
  
 **One-day NIH Data Science Learning and Testing Hackathon (application required)**<br>
